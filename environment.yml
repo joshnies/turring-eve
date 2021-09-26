@@ -1,0 +1,10 @@
+name: eve
+
+dependencies:
+  - python=3.9
+  - pip>=19.0
+  - autopep8
+  - flask
+  - boto3
+  - pip:
+      - python-dotenv
